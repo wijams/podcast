@@ -1,0 +1,58 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Bookman", serif;
+  background-color: #f4f4f4;
+}
+
+a {
+  color: #000;
+}
+
+img {
+	width: 100%;
+	display: block;
+}
+
+hr {
+	background-color: #2c3338;
+	color: #fff;
+	margin: 0;
+}
+
+.bg-dark {
+	background-color: #2c3338 !important;
+}
+
+.navbar-brand {
+	font-family: "Ink Free", serif;
+}
+
+.welcome {
+	text-align: center;
+	background-color: #2c3338;
+	color: #fff;
+	padding: 20px;
+	margin: 0px;
+}
+
+.welcome h3 {
+	margin: 50px 0px;
+}
+
+.welcome ul {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+	text-align: center;
+}
+
+.big-links {
+	color: #fff;
+	text-decoration: none;
+}
